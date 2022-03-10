@@ -1,19 +1,19 @@
 {
-    "version": "0.6.16",
+    "version": "0.6.17",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/stacc/cli-next/releases/download/v0.6.16/stacc_0.6.16_Windows_i386.tar.gz",
+            "url": "https://github.com/stacc/cli-next/releases/download/v0.6.17/stacc_0.6.17_Windows_i386.tar.gz",
             "bin": [
                 "stacc.exe"
             ],
-            "hash": "4127d806e8013a28c21da2cda08eb46a31f65c4e139f51f56de4bccbfc6e180b"
+            "hash": "54f8081a6cc4f5e031e1c5027d86a2cdd01b4889d8276d1a9df5b3551a00e0ef"
         },
         "64bit": {
-            "url": "https://github.com/stacc/cli-next/releases/download/v0.6.16/stacc_0.6.16_Windows_x86_64.tar.gz",
+            "url": "https://github.com/stacc/cli-next/releases/download/v0.6.17/stacc_0.6.17_Windows_x86_64.tar.gz",
             "bin": [
                 "stacc.exe"
             ],
-            "hash": "812782c8f437ac18fb1b70f7b362313b1c2d2b2da8448a02f6b8da803545160e"
+            "hash": "2b10820177ff51d5bf8e6094a7af0c8c0e171b3793614a7529864c9c0196cdab"
         }
     },
     "homepage": "https://github.com/stacc/cli",

@@ -1,19 +1,19 @@
 {
-    "version": "0.0.11-morten-herman-test",
+    "version": "0.6.26",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/stacc/cli-next/releases/download/v0.0.11-morten-herman-test/stacc_0.0.11-morten-herman-test_Windows_i386.tar.gz",
+            "url": "https://github.com/stacc/cli-next/releases/download/v0.6.26/stacc_0.6.26_Windows_i386.tar.gz",
             "bin": [
                 "stacc.exe"
             ],
-            "hash": "daa3a97a315007ba51cd572ec63855d942091683e686063e21ac9f091f490eeb"
+            "hash": "7194d3ec98bd7ab74b2bcf572c45b6282e19bd78e61eea5cfcfbcd4b7335b801"
         },
         "64bit": {
-            "url": "https://github.com/stacc/cli-next/releases/download/v0.0.11-morten-herman-test/stacc_0.0.11-morten-herman-test_Windows_x86_64.tar.gz",
+            "url": "https://github.com/stacc/cli-next/releases/download/v0.6.26/stacc_0.6.26_Windows_x86_64.tar.gz",
             "bin": [
                 "stacc.exe"
             ],
-            "hash": "3832e90f1e25d02484b6bbf8eff92e120ce54fd15e826d090ee498b909ae68fc"
+            "hash": "ec63c6f16c5a7fa6dcfd94dfabdcd07632abaf01555d3cf2da8e1df37eb37786"
         }
     },
     "homepage": "https://github.com/stacc/cli",

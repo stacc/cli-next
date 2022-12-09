@@ -4,19 +4,10 @@ This repository is being used to hold the Stacc CLI [releases](https://github.co
 
 ## Installation
 
-* [Snap](#using-snap-linux)
 * [Homebrew](#using-homebrew-macos--linux)
 * [Scoop](#using-scoop-windows)
 * [From terminal](#from-terminal)
 * [Direct download](#direct-download)
-
-### Using snap (Linux)
-
-Simply run the following command
-
-```
-$ snap install stacc --channel=beta
-```
 
 ### Using homebrew (MacOS / Linux)
 

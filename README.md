@@ -16,13 +16,13 @@ This repository is being used to hold the Stacc CLI [releases](https://github.co
 First add the repository with
 
 ```
-$ brew tap stacc/tap
+brew tap stacc/tap
 ```
 
 Then install the CLI with
 
 ```
-$ brew install stacc-next
+brew install stacc-next
 ```
 
 ### Using scoop (Windows)
@@ -30,13 +30,13 @@ $ brew install stacc-next
 First add the repository with
 
 ```
-$ scoop bucket add stacc https://github.com/stacc/cli-next
+scoop bucket add stacc https://github.com/stacc/cli-next
 ```
 
 Then install the CLI with
 
 ```
-$ scoop install stacc
+scoop install stacc
 ```
 
 ### From terminal
@@ -44,13 +44,13 @@ $ scoop install stacc
 MacOS and Linux users
 
 ```
-$ curl -s https://raw.githubusercontent.com/stacc/cli-next/main/install.sh | bash -s --
+curl -s https://raw.githubusercontent.com/stacc/cli-next/main/install.sh | bash -s --
 ```
 
 Windows users
 
 ```
-$ curl -LSs https://raw.githubusercontent.com/stacc/cli-next/main/install.bat -o %TEMP%\stacc-install.bat && CMD /C %TEMP%\stacc-install.bat && del %TEMP%\stacc-install.bat
+curl -LSs https://raw.githubusercontent.com/stacc/cli-next/main/install.bat -o %TEMP%\stacc-install.bat && CMD /C %TEMP%\stacc-install.bat && del %TEMP%\stacc-install.bat
 ```
 
 ### Direct download

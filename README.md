@@ -56,3 +56,7 @@ curl -LSs https://raw.githubusercontent.com/stacc/cli-next/main/install.bat -o %
 ### Direct download
 
 Download the latest release [here](https://github.com/stacc/cli-next/releases/latest).
+
+### Source code
+
+The source code for the CLI is contained in [this repository](https://github.com/stacc/paas).
